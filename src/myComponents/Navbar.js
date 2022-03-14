@@ -30,9 +30,9 @@ export const Navbar = () => {
             </div>
           </div>
 
-          <div className="collapse navbar-collapse" id="navbarNav">
-            <ul className="navbar-nav mt-3 mb-3 bg-light justify-content-evenly w-100 align-items-center">
-              <li className='nav-item'><a href="#" className="nav-link bg-light text-dark">Home</a></li>
+          <div className="collapse navbar-collapse font-bold" id="navbarNav">
+            <ul className="navbar-nav mt-3 mb-3 bg-light justify-content-evenly w-100 align-items-center font-bold">
+              <li className='nav-item'><a href="#" className="nav-link bg-light text-dark font-bold">Home</a></li>
               <li className='nav-item'><a href="#" className="nav-link bg-light text-dark ">Events</a></li>
               <li className='nav-item'><a href="#" className="nav-link bg-light text-dark ">Design</a></li>
               <li className='d-none d-sm-flex'><a href="#" className="nav-link"><img src={logo} alt="" style={imageStyle}/></a></li>
