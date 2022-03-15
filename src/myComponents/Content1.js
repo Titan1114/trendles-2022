@@ -11,6 +11,7 @@ export const Content1 = () => {
       margin:"0px 15% 0 15%",
       fontFamily:"Fondamento"
     }
+    
     let pStyle={
         color:"white",
         margin:"0px 20% 0 20%",  
