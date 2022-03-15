@@ -17,6 +17,7 @@ function App() {
         <Route exact path="/">
       <Navbar/>
       <Content1/>
+      <Content3/>
       <Content2/>
       </Route>
       </Switch>
